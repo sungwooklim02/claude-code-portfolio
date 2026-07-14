@@ -254,6 +254,7 @@ window.PORTFOLIO = {
    "hero_shots": [
     "dashboard/main",
     "projects/detail-table-sheet",
+    "projects/detail-schedule",
     "figma/canvas-wireframe",
     "mobile/responsive-360",
     "members/organization",
@@ -261,6 +262,9 @@ window.PORTFOLIO = {
     "work-management/board",
     "calendar/month",
     "reports/daily",
+    "observability/error-tracker",
+    "misc/dev-board",
+    "vault/software-accounts",
     "members/roles",
     "ue-error/reference",
     "chat/messaging"
@@ -366,6 +370,7 @@ window.PORTFOLIO = {
     "glossary/list",
     "quality/main",
     "report/main",
+    "queue/main",
     "glossary/pending",
     "scheduler/main",
     "system/audit",
