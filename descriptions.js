@@ -1,6 +1,6 @@
 /* 자동 생성 (site/_descriptions.json + _screens.json) — 수정 금지, 재생성하라 */
 window.SCREEN_DESC = {
- "groupware/mobile/responsive-360": "360px 모바일 반응형 — 대시보드·칸반(스냅 스크롤)·근태를 표준 20조항으로 재설계, 데스크톱 픽셀 보존. 라이브 770판정 오버플로·크러시 0.",
+ "groupware/mobile/responsive-360": "360px 모바일 반응형 — 캘린더(2행 헤더·전체 월 그리드)·대시보드·근태를 표준 20조항으로 재설계, 데스크톱 픽셀 보존. 라이브 770판정 오버플로·크러시 0.",
  "groupware/dashboard/main": "홈 대시보드 — 오늘·주요 업무, 2주 캘린더, 최근 메시지·회의록·프로젝트 현황을 한 화면에 집계.",
  "groupware/work-management/board": "업무 관리 대시보드 — 계획·진행·완료·확인 4단 칸반, 내 업무/팀별 뷰 전환·드래그 이동.",
  "groupware/work-management/today": "오늘의 업무 — 진행 중·전일 이월·미처리로 구분, 마감일·우선순위 정렬.",
