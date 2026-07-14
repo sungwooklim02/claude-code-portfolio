@@ -39,7 +39,7 @@ window.PORTFOLIO = {
    "url": "https://github.com/sungwooklim02/strata-index"
   }
  ],
- "total_shots": 218,
+ "total_shots": 222,
  "all_shots": [
   "docs-rag/ai/ai-data",
   "docs-rag/ai/image-reference",
@@ -55,6 +55,8 @@ window.PORTFOLIO = {
   "docs-rag/main/similarity",
   "docs-rag/qa/qa",
   "groupware/accounting/accounts",
+  "groupware/accounting/accounts-settings",
+  "groupware/accounting/accounts-transactions",
   "groupware/accounting/cards",
   "groupware/accounting/overview",
   "groupware/accounting/payroll",
@@ -259,6 +261,8 @@ window.PORTFOLIO = {
     "mobile/responsive-360",
     "members/organization",
     "accounting/overview",
+    "accounting/accounts-transactions",
+    "accounting/accounts-settings",
     "work-management/board",
     "calendar/month",
     "reports/daily",
